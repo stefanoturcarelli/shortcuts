@@ -23,6 +23,10 @@ This is a list of the shortcuts I found most useful so far:
 
 - Surround with a snippet: `Ctrl + K` `Ctrl + S`
 
+References:
+- https://www.youtube.com/watch?v=My0o3k5hjyI
+- https://www.youtube.com/watch?v=Bh1pI1llV4Q
+
 
 ## Visual Studio Code
 ![image](https://github.com/stefanoturcarelli/shortcuts/assets/67341828/87c06174-1436-430c-94bf-4c03603cad11)
